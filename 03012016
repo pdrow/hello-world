@@ -1,0 +1,26 @@
+this is not code.
+these are research notes.
+#c&asp.net (stack?)
+json->smartirc4net
+
+at github:
+https://github.com/Microsoft/dotnet/commit/55002a72ba44ff3ada8fd6a8e895f60d505529a8
+
+at pastebin:
+http://pastebin.com/df7050t5
+
+meebey disconnect(ref stackerrors):
+http://smartirc4net.meebey.net/docs/0.4.0/html/Meebey.SmartIrc4net.IrcConnection.OnDisconnected.html
+
+mibbit kwik ref:
+https://wiki.mibbit.com/index.php/API
+https://wiki.mibbit.com/index.php/Uri_parameters
+https://wiki.mibbit.com/index.php/Widget
+
+https://search.mibbit.com/search/-keywordorphrase-
+
+keyword for search
+mippet search
+mippet return server&channel
+tree link
+choice of iframe,popup,newwindow
