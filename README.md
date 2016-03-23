@@ -7,3 +7,12 @@ html widget?
 
 github markup
 [![Visit our IRC channel](https://kiwiirc.com/buttons/irc.kiwiirc.com/pdrow.png)](https://kiwiirc.com/client/irc.kiwiirc.com/?nick=pdrow|?&theme=mini#pdrow)
+
+search by kword:
+https://search.mibbit.com/search/keyword
+list of all public channels on known server
+/list *keyword*
+/join #whatever
+...
+http://irc.netsplit.de/channels/?chat=keyword
+investigate further
