@@ -1,0 +1,18 @@
+get search term from user, set=kw
+
+Document doc = Jsoup.connect(https://search.mibbit.com/?q=kw).get();
+String title = doc.title();
+
+Document doc = Jsoup.connect("https://search.mibbit.com/search/kw")
+  .data("query", "Java")
+  .userAgent("Mozilla")
+  .cookie("auth", "token")
+  .timeout(3000)
+  .post();
+
+-class="pages"=length of returns
+-class="result"=
+a.netlink=server
+span.reschannel=#call
+
+then plug into kiwi?
